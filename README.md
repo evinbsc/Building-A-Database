@@ -1,6 +1,6 @@
 # Building-A-Database
 
-A C++ project to implement a basic database with the functionalities to insert, query, update, remove, display, save, and load records. This project also includes a test file to demonstrate the usage of the database.
+A C++ project to implement a database with the functionalities to insert, query, update, remove, display, save, and load records. This project also includes a test file to demonstrate the usage of the database.
 
 ## Table of Contents
 - [Features](#features)
